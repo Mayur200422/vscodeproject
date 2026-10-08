@@ -1,4 +1,1 @@
-HELLO EVERYONE
-MY NAME IS MAYUR
-IM FROM NAGPUR
-shgvxjasnx,mZMx
+vscode readme file
