@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HEY IM MAYUR GRADUATE FROM RAISONI COLLEGE
 <!DOCTYPE html>
 <html lang="en">
@@ -40,3 +41,6 @@ HEY IM MAYUR GRADUATE FROM RAISONI COLLEGE
   </script>
 </body>
 </html>
+=======
+vscodeproject readme file
+>>>>>>> e069ae83e8a70757522993b84a4448f2aae7d554
